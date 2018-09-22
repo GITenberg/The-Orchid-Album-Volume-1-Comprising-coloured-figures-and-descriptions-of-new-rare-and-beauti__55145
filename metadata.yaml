@@ -1,10 +1,13 @@
 _repo: The-Orchid-Album-Volume-1-Comprising-coloured-figures-and-descriptions-of-new-rare-and-beauti__55145
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Fitch, John Nugent
     gutenberg_agent_id: '48201'
     url: http://www.gutenberg.org/2009/agents/48201
+covers:
+- cover_type: archival
+  image_path: 55145-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Warner, Robert
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2185
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Moore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55145#The-Orchid-Album-Volume-1-Comprising-coloured-figures-and-descriptions-of-new-rare-and-beauti_
 gutenberg_issued: '2017-07-18'
 gutenberg_type: Text
 identifiers:

@@ -1,0 +1,43 @@
+_repo: The-Orchid-Album-Volume-1-Comprising-coloured-figures-and-descriptions-of-new-rare-and-beauti__55145
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Fitch, John Nugent
+    gutenberg_agent_id: '48201'
+    url: http://www.gutenberg.org/2009/agents/48201
+creator:
+  authors:
+  - agent_name: Warner, Robert
+    gutenberg_agent_id: '48199'
+    url: http://www.gutenberg.org/2009/agents/48199
+  - agent_name: Williams, Benjamin Samuel
+    gutenberg_agent_id: '48200'
+    url: http://www.gutenberg.org/2009/agents/48200
+  - agent_name: Moore, Thomas
+    aliases:
+    - Moore, Tom
+    - Moore, Anacreon
+    - Little, Thomas
+    - Brown, Thomas, the younger
+    birthdate: 1779
+    deathdate: 1852
+    gutenberg_agent_id: '2185'
+    url: http://www.gutenberg.org/2009/agents/2185
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Moore
+description: ''
+gutenberg_issued: '2017-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55145'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Orchid Album, Volume 1
+
+  Comprising coloured figures and descriptions of new, rare,
+
+  and beautiful Orchidaceous Plants'
+url: http://www.gutenberg.org/ebooks/55145
